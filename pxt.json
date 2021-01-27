@@ -1,0 +1,31 @@
+{
+    "name": "toolbox",
+    "version": "0.1.0",
+    "description": "Some utility functions.",
+    "license": "ISC",
+    "dependencies": {
+        "circuit-playground": "*"
+    },
+    "files": [
+        "README.md",
+        "COPYING",
+        "main.blocks",
+        "main.ts",
+        "custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "branch": "v1.6.4",
+        "tag": "v1.6.4",
+        "commits": "https://github.com/microsoft/pxt-adafruit/commits/7cb628ce481bdd433a36c2554046435775a0d9e8",
+        "target": "1.6.4",
+        "pxt": "6.1.10"
+    },
+    "supportedTargets": [
+        "adafruit"
+    ],
+    "preferredEditor": "blocksprj"
+}
