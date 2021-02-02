@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "pxt-adafruit": "^1.6.4"
+    "pxt-adafruit": "^1.6.8"
   }
 }
